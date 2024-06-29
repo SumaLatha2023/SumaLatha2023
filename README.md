@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SumaLatha2023
-- 👀 I’m interested in web development and designing
+- 👋 Hi, I’m SumaLatha Salapu
+- 👀 I’m interested in Web development and Designing
 - 😄 Pronouns: she/her
 
 
