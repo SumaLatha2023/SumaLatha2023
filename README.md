@@ -35,6 +35,12 @@ I'm a tech enthusiast currently B.Tech in Computer Science Engineering. My prima
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumaLatha2023&layout=compact&theme=radical)
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SumaLatha2023&theme=radical)
+
+## 📈 Contributions Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SumaLatha2023&theme=rogue)
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sumalatha-salapu-77092225b)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumaLatha2023)
