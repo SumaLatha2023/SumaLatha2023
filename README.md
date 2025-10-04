@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 I'm a tech enthusiast currently B.Tech in Computer Science Engineering. My primary interest revolves around honing proficiency in Web Development and Designing.
 
 - 🌱 Currently learning **Full Stack Development (MERN)** and **App Development (Android)**.
-- 📫 How to reach me: [sumalathasalapu123@gmail.com](mailto:sumalathasalapu123@gmail.com
+- 📫 How to reach me: [sumalathasalapu123@gmail.com](mailto:sumalathasalapu123@gmail.com)
 - My Portfolio: [sumalatha-salapu.portfolio](https://sumalatha-salapu-portfolio.netlify.app/)
 
 ## 🛠️ Technologies & Tools
